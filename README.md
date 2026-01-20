@@ -41,6 +41,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto; margin-bottom: 20px;"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A1B27" style="max-width: 48%; height: auto; margin: 5px;"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF&border_radius=10" style="max-width: 48%; height: auto; margin: 5px;"/>
 </div>
