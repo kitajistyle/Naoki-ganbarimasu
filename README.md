@@ -1,37 +1,138 @@
-# Record of Naoki-ganbarimasu activity
-Welcome to my Github!
-## External Detalis
-<p align="left">
-  <a href="https://github.com/Naoki-ganbarimasu/Naoki-ganbarimasu">
-    <img src="https://komarev.com/ghpvc/?username=Naoki-ganbarimasu" alt="Naoki-ganbarimasu" />
-  </a>
-  <a href="https://github.com/Naoki-ganbarimasu/">
-    <img height="20" src="https://img.shields.io/github/followers/Naoki-ganbarimasu?label=follow&logo=github&style=flat" />
-  </a>
-  <a herf="https://qiita.com/Naoki_ganbarimasu">
-    <img height = "20" src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/posts.svg"/>
-  </a>
-  <a href="https://qiita.com/Naoki_ganbarimasu">
-    <img height = "20" src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/contributions.svg"/>
-  </a>
-  <a href="https://qiita.com/Naoki_ganbarimasu">
-    <img height = "20" src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/followers.svg" />
-  </a>
-</p>
+<div align="center">
 
-## Status Card
-|My status|Use language|
-|:--:|:--:|
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoki-ganbarimasu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoki-ganbarimasu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)| 
+# 👋 Welcome to Naoki's GitHub Profile!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoki-ganbarimasu&theme=default)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+Learning+New+Things;Open+to+Collaboration!)](https://git.io/typing-svg)
 
-## Github Trohy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naoki-ganbarimasu)](https://github.com/Thakuei/github-profile-trophy)
+</div>
 
-## Used Technology Icon
+---
+
+## 📊 Profile Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,anaconda,react,ruby,rails,go,firebase,aws,supabase,git,github,docker,notion,vscode,&perline=5"></img>
+  <a href="https://github.com/Naoki-ganbarimasu">
+    <img src="https://komarev.com/ghpvc/?username=Naoki-ganbarimasu&color=2e9fff&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Naoki-ganbarimasu">
+    <img src="https://img.shields.io/github/followers/Naoki-ganbarimasu?label=Followers&logo=github&style=for-the-badge&color=2e9fff" alt="Followers" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://qiita.com/Naoki_ganbarimasu">
+    <img src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/posts.svg" alt="Qiita Posts"/>
+  </a>
+  <a href="https://qiita.com/Naoki_ganbarimasu">
+    <img src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/contributions.svg" alt="Qiita Contributions"/>
+  </a>
+  <a href="https://qiita.com/Naoki_ganbarimasu">
+    <img src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/followers.svg" alt="Qiita Followers"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naoki-ganbarimasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoki-ganbarimasu&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+  
+[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naoki-ganbarimasu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naoki-ganbarimasu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,ruby,go&perline=7" />
+</p>
+
+### Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails&perline=7" />
+</p>
+
+### Tools & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,notion,firebase,aws,supabase,anaconda&perline=9" />
+</p>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Naoki-ganbarimasu/Naoki-ganbarimasu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> **Note**: To enable the snake animation, you'll need to set up a GitHub Action. See the [setup guide](https://github.com/Platane/snk#github-action).
+
+---
+
+## 📊 Detailed Stats
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoki-ganbarimasu&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naoki-ganbarimasu&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naoki-ganbarimasu&theme=tokyonight)
+
+</div>
+
+---
+
+## 💭 Daily Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Naoki_ganbarimasu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naoki-ganbarimasu)
+
+</div>
+
+<div align="center">
+  
+**Thanks for visiting! 😊**
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
