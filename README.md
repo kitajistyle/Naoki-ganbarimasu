@@ -4,13 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+Learning+New+Things;Open+to+Collaboration!)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 📊 Profile Stats
-
-<p align="center">
+<p>
   <a href="https://github.com/kitajistyle">
     <img src="https://komarev.com/ghpvc/?username=kitajistyle&color=2e9fff&style=for-the-badge" alt="Profile Views" />
   </a>
@@ -19,7 +13,12 @@
   </a>
 </p>
 
-<p align="center">
+### 🤝 Connect with Me
+
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/kitajistyle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitajistyle)
+
+<p>
   <a href="https://qiita.com/kitajistyle">
     <img src="https://qiita-badge.apiapi.app/s/kitajistyle/posts.svg" alt="Qiita Posts"/>
   </a>
@@ -31,17 +30,40 @@
   </a>
 </p>
 
-## 📊 My GitHub Activity
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,ruby,go&perline=7&theme=dark" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails&perline=7&theme=dark" />
+</p>
+
+### Tools & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,notion,firebase,aws,supabase,anaconda&perline=9&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <picture>
     <source media="(max-width: 768px)" srcset="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="200">
-    <img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" alt="Coding Cat" width="300" style="max-width: 100%; height: auto; margin-bottom: 20px;"/>
+    <img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" alt="Coding Cat" width="300" style="max-width: 100%; height: auto;"/>
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto; margin-bottom: 20px;"/>
 </div>
 
 <div align="center">
@@ -51,6 +73,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27" style="max-width: 100%; height: auto; margin-top: 10px;"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto; margin-top: 20px;"/>
 </div>
 
 ---
@@ -65,30 +91,7 @@
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,ruby,go&perline=7&theme=dark" />
-</p>
-
-### Frontend & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails&perline=7&theme=dark" />
-</p>
-
-### Tools & Services
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,notion,firebase,aws,supabase,anaconda&perline=9&theme=dark" />
-</p>
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -114,17 +117,8 @@
 
 <div align="center">
 
-### 🤝 Let's Connect!
+**Thanks for visiting!**
 
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/kitajistyle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitajistyle)
-
-</div>
-
-<div align="center">
-  
-**Thanks for visiting! 😊**
-  
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
