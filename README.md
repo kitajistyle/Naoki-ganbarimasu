@@ -11,11 +11,11 @@
 ## 📊 Profile Stats
 
 <p align="center">
-  <a href="https://github.com/Naoki-ganbarimasu">
-    <img src="https://komarev.com/ghpvc/?username=Naoki-ganbarimasu&color=2e9fff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/kitajistyle">
+    <img src="https://komarev.com/ghpvc/?username=kitajistyle&color=2e9fff&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Naoki-ganbarimasu">
-    <img src="https://img.shields.io/github/followers/Naoki-ganbarimasu?label=Followers&logo=github&style=for-the-badge&color=2e9fff" alt="Followers" />
+  <a href="https://github.com/kitajistyle">
+    <img src="https://img.shields.io/github/followers/kitajistyle?label=Followers&logo=github&style=for-the-badge&color=2e9fff" alt="Followers" />
   </a>
 </p>
 
@@ -36,8 +36,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naoki-ganbarimasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoki-ganbarimasu&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
 ---
@@ -46,7 +46,7 @@
 
 <div align="center">
   
-[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naoki-ganbarimasu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kitajistyle&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naoki-ganbarimasu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kitajistyle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Naoki-ganbarimasu/Naoki-ganbarimasu/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/kitajistyle/kitajistyle/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -101,10 +101,10 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoki-ganbarimasu&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitajistyle&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naoki-ganbarimasu&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naoki-ganbarimasu&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitajistyle&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitajistyle&theme=tokyonight)
 
 </div>
 
@@ -125,7 +125,7 @@
 ### 🤝 Let's Connect!
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Naoki_ganbarimasu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naoki-ganbarimasu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitajistyle)
 
 </div>
 
