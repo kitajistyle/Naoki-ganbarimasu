@@ -1,0 +1,42 @@
+name: Generate Snake Animation
+
+on:
+  # 毎日午前0時(UTC)に実行
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # 手動実行を許可
+  workflow_dispatch:
+  
+  # mainブランチへのpush時にも実行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      # スネークアニメーションを生成
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: kitajistyle
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
+      
+      # 生成されたファイルをoutputブランチにプッシュ
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

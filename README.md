@@ -56,7 +56,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=kitajistyle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kitajistyle&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -89,11 +89,14 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/kitajistyle/kitajistyle/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-> **Note**: To enable the snake animation, you'll need to set up a GitHub Action. See the [setup guide](https://github.com/Platane/snk#github-action).
 
 ---
 
