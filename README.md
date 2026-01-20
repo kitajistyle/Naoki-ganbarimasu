@@ -31,40 +31,45 @@
   </a>
 </p>
 
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A1B27"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27"/>
 </div>
 
 ---
 
-## 🔥 Activity Graph
+## 📈 GitHub Metrics
 
 <div align="center">
-  
-[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kitajistyle&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Metrics](https://metrics.lecoq.io/kitajistyle?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&habits=1&followup=1&people=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTokyo)
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitajistyle&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitajistyle&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitajistyle&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Stats & Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kitajistyle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
+[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kitajistyle&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -74,18 +79,28 @@
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,ruby,go&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,ruby,go&perline=7&theme=dark" />
 </p>
 
 ### Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails&perline=7&theme=dark" />
 </p>
 
 ### Tools & Services
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,notion,firebase,aws,supabase,anaconda&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,notion,firebase,aws,supabase,anaconda&perline=9&theme=dark" />
 </p>
+
+</div>
+
+---
+
+## 🎯 3D Contribution Graph
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -103,19 +118,6 @@
 
 </div>
 
-
----
-
-## 📊 Detailed Stats
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitajistyle&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitajistyle&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitajistyle&theme=tokyonight)
-
-</div>
 
 ---
 
