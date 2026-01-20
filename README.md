@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-metrics.svg" alt="GitHub Metrics" width="700"/>
+  <img src="https://raw.githubusercontent.com/kitajistyle/kitajistyle/output/github-metrics.svg" alt="GitHub Metrics" width="700"/>
 </div>
 
 ---
@@ -83,25 +83,15 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kitajistyle/Naoki-ganbarimasu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kitajistyle/kitajistyle/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kitajistyle/kitajistyle/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kitajistyle/kitajistyle/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
